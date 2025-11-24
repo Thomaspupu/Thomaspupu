@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomaspupu&layout=compact&theme=tokyonight" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakiinoxx&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomaspupu&theme=tokyonight" height="165" />
 </p>
 
 <!--
