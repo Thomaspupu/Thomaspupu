@@ -1,4 +1,4 @@
-# Hi there 👋 Je suis Thomas
+# Hi there 👋 Je suis Thomas !
 
 ### Développeur Web
 
