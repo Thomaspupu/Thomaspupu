@@ -48,8 +48,6 @@ Mon premier projet fullstack mettant en pratique l'ensemble de ma stack techniqu
 [![Email](https://img.shields.io/badge/-contact@thomas--pujol.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@thomas-pujol.com)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomaspupu&layout=compact&theme=tokyonight" height="165">
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomaspupu&theme=tokyonight" height="165" />
 </p>
 
