@@ -34,10 +34,6 @@ Plateforme de commande en ligne pour un foodtruck.
 ### 📬 Me contacter
 
 [![Email](https://img.shields.io/badge/-contact@thomas--pujol.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@thomas-pujol.com)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomaspupu&layout=compact&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomaspupu&theme=tokyonight" height="165" />
-</p>
 
 <!--
 **Thomaspupu/Thomaspupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
