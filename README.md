@@ -23,7 +23,7 @@ Du site vitrine à l'application métier complète.
 
 ## 🎯 Projet en vedette
 
-### 🚚 Monsieur Croques
+### 🚚 MrCroques.fr
 Plateforme de commande en ligne pour un foodtruck.
 `React` `TypeScript` `Node.js` `MySQL`
 
