@@ -39,5 +39,4 @@ proposait. MrCroques est aujourd'hui le truck pilote d'Eatch.
 
 ### 📬 Me contacter
 
-[![Email](https://img.shields.io/badge/-contact@thomas--pujol.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@thomas-pujol.com)
 [![Eatch](https://img.shields.io/badge/-eatch.app-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://eatch.app)
